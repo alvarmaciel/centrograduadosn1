@@ -1,4 +1,4 @@
 ** Repositorio de Ideas y proyectos
 Este repositorio está armado para gestionar los proyectos e ideas del centro de graduados.
 ** Modo de uso
-Por ahora usamos la sección de *issues* para organizarnos
+Por ahora usamos la sección de [[https://github.com/alvarmaciel/centrograduadosn1/issues][issues]] para organizarnos.
